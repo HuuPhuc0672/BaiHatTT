@@ -1,0 +1,101 @@
+<resources>
+    <string name="app_name">BaiHatTT</string>
+    <string name="title_activity_loi_bai_hat">LoiBaiHatActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="bai1">Bà ơi bà cháu yêu bà lắm\nTóc bà trắng màu trắng như mây\nCháu yêu bà cháu nắm bàn tay\nKhi cháu vâng lời cháu biết bà vui\n
+        \nBà ơi bà cháu yêu bà lắm\nTóc bà trắng màu trắng như mây\nCháu yêu bà cháu nắm bàn tay\nKhi cháu vâng lời cháu biết bà vui\n\nBà ơi bà cháu yêu bà lắm\nTóc bà trắng màu trắng như mây\nCháu yêu bà cháu nắm bàn tay\nKhi cháu vâng lời cháu biết bà vui\n\n
+        Bà ơi bà cháu yêu bà lắm\nTóc bà trắng màu trắng như mây\nCháu yêu bà cháu nắm bàn tay\nKhi cháu vâng lời cháu biết bà vui\nKhi cháu vâng lời cháu biết bà vui</string>
+    <string name="bai2">Ba thương con vì con giống mẹ\nMẹ thương con vì con giống cha\nCả nhà ta cùng thương yêu nhau\nXa là nhớ gần nhau là cười\n\nBa thương con vì con giống mẹ\nMẹ thương con vì con giống cha\nCả nhà ta cùng thương yêu nhau\nXa là nhớ gần nhau là cười\n\n
+         Ba thương con vì con giống mẹ\nMẹ thương con vì con giống cha\nCả nhà ta cùng thương yêu nhau\nXa là nhớ gần nhau là cười\n\nBa thương con vì con giống mẹ\nMẹ thương con vì con giống cha\nCả nhà ta cùng thương yêu nhau\nXa là nhớ gần nhau là cười\nBa thương con vì con giống mẹ\n\n
+         Mẹ thương con vì con giống cha\nCả nhà ta cùng thương yêu nhau\nXa là nhớ gần nhau là cười\nBa thương con vì con giống mẹ\n\n
+         Mẹ thương con vì con giống cha\nCả nhà ta cùng thương yêu nhau\nXa là nhớ gần nhau là cười\nXa là nhớ gần nhau là cười</string>
+
+    <string name="bai3">Bồ câu ơi tiếng chim gù thương mến\nHải âu ơi cánh chim vờn trên sóng\nCùng bay nào\nCho trái đất quay\nCùng bay nào\nCho trái đất quay\n\nTrái đất này là của chúng mình
+        \nQuả bóng xanh bay giữa trời xanh\nBồ câu ơi tiếng chim gù thương mến\nHải âu ơi cánh chim vờn trên sóng\nCùng bay nào\nCho trái đất quay\nCùng bay nào\nCho trái đất quay\n\nTrái đất này là của chúng mình\nVàng trắng đen tuy khác màu da
+        \nBạn yêu ơi chúng ta là hoa quý\nĐầy hương thơm nắng tô màu tươi thắm\nMàu hoa nào\nCũng quý cũng thơm\nMàu da nào\nCũng quý cũng thơm\n\nTrái đất này là của chúng mình\nCùng xiết tay môi thắm cười xinh\nBình minh ơi khúc ca này êm ấm\nHọc chăm ngoan đắp xây đời tươi sáng\nHành tinh này\nLà của chúng taHành tinh này\nLà của chúng ta
+        \n\nTrái đất này là của chúng mình\nQuả bóng xanh bay giữa trời xanh\nBồ câu ơi tiếng chim gù thương mến\nHải âu ơi cánh chim vờn trên sóng\nCùng bay nào\nCho trái đất quay\nCùng bay nào\nCho trái đất quay
+         \n\nTrái đất này là của chúng mình\nVàng trắng đen tuy khác màu da\nBạn yêu ơi chúng ta là hoa quý\nĐầy hương thơm nắng tô màu tươi thắm\nMàu hoa nào\nCũng quý cũng thơm\nMàu da nào\nCũng quý cũng thơm
+         \n\nTrái đất này là của chúng mình\nCùng xiết tay môi thắm cười xinh\nBình minh ơi khúc ca này êm ấm\nHọc chăm ngoan đắp xây đời tươi sáng\nHành tinh này\nLà của chúng ta\nHành tinh này
+        \n\nLà của chúng ta\nHành tinh này\nLà của chúng ta\nHành tinh này\nLà của chúng ta</string>
+    <string name="bai4">Ngày đầu tiên đi học\nMẹ dắt tay đến trường\nEm vừa đi vừa khóc\nMẹ dỗ dành yêu thương\nNgày đầu tiên đi học\nEm mắt ướt nhạt nhoà\nCô vỗ về an ủi\nChao ôi ôi thiết tha\n\nNgày đầu tiên thế đó
+\nCô giáo như mẹ hiền\nEm bây giờ cứ ngỡ\nCô giáo là cô tiên\nEm bây giờ khôn lớn\nVẫn nhớ về ngày xưa\nNgày đầu tiên đi học\nMẹ cô cùng vỗ về\n\nNgày đầu tiên đi học\nMẹ dắt tay đến trường\nEm vừa đi vừa khóc\nMẹ dỗ dành yêu thương\nNgày đầu tiên đi học\nEm mắt ướt nhạt nhoà\nCô vỗ về an ủi\nChao ôi ôi thiết tha\n
+\nNgày đầu tiên thế đó\nCô giáo như mẹ hiền\nEm bây giờ cứ ngỡ\nCô giáo là cô tiên\nEm bây giờ khôn lớn\nVẫn nhớ về ngày xưa\nNgày đầu tiên đi học\nMẹ cô cùng vỗ về\n\nNgày đầu tiên đi học
+\nMẹ dắt tay đến trường\nEm vừa đi vừa khóc\nMẹ dỗ dành yêu thương\nNgày đầu tiên đi học\nEm mắt ướt nhạt nhoà\nCô vỗ về an ủi\nChao ôi ôi thiết tha\n\nNgày đầu tiên thế đó\nCô giáo như mẹ hiền\nEm bây giờ cứ ngỡ\nCô giáo là cô tiên\nEm bây giờ khôn lớn\nVẫn nhớ về ngày xưa\nNgày đầu tiên đi học\nMẹ cô cùng vỗ về\nNgày đầu tiên đi học\nMẹ cô cùng vỗ về</string>
+
+    <string name="bai5">Em sẽ là mùa xuân của mẹ
+\nEm sẽ là màu nắng của cha
+\nEm đến trường học bao điều lạ
+\nMôi biết cười là những nụ hoa
+\n
+\nTrang sách hồng nằm mơ màng ngủ
+\nEm gối đầu trên những dòng thơ
+\nEm thấy mình là hoa hồng nhỏ
+\nBay giữa đời làm mát ngày qua
+
+\nTrời mênh mông đất hiền hòa
+\nBàn chân em đi nhè nhẹ
+\nĐưa em vào tình người bao la
+\n
+\nCây có rừng bầy chim làm tổ
+\nSông có nguồn từ suối chảy ra
+\nTim mỗi người là quê nhà nhỏ
+\nTình hồng thắm như mặt trời xa
+ \n
+\nEm sẽ là mùa xuân của mẹ
+\nEm sẽ là màu nắng của cha
+\nEm đến trường học bao điều lạ
+\nMôi biết cười là những nụ hoa
+\n
+\nTrang sách hồng nằm mơ màng ngủ
+\nEm gối đầu trên những dòng thơ
+\nEm thấy mình là hoa hồng nhỏ
+\nBay giữa đời làm mát ngày qua
+\n
+\nTrời mênh mông đất hiền hòa
+\nBàn chân em đi nhè nhẹ
+\nĐưa em vào tình người bao la
+\n
+\nCây có rừng bầy chim làm tổ
+\nSông có nguồn từ suối chảy ra
+\nTim mỗi người là quê nhà nhỏ
+\nTình hồng thắm như mặt trời xa</string>
+    <string name="bai6">Happy birthday to you\nHappy birthday to you\nHappy birthday, happy birthday and the start burn tonight
+        \nHappy birthday to you\nHappy birthday to you\nHappy birthday, happy birthday, happy birthday to you
+        \nChào mừng sinh nhật đáng yêu\nChào mừng sinh nhật dễ thương\nMừng ngày chúng ta sinh ra đời\nCùng vì sao xa toả sáng
+        \nChào mừng sinh nhật đáng yêu\nChào mừng sinh nhật dễ thương\nMừng ngày chúng ta sinh ra đời\nHát với nhau lời chúc mừng</string>
+    <string name="bai7">Một con vịt xòe ra hai cái cánh
+\nNó kêu rằng cáp cáp cáp, cạp cạp cạp
+\nGặp hồ nước nó bì bà bì bõm
+\nLúc lên bờ vẫy cái cánh cho khô
+\n\nMột con vịt xòe ra hai cái cánh
+\nNó kêu rằng cáp cáp cáp, cạp cạp cạp
+\nGặp hồ nước nó bì bà bì bõm
+\nLúc lên bờ vẫy cái cánh cho khô
+\nMột con vịt xòe ra hai cái cánh
+\nNó kêu rằng cáp cáp cáp, cạp cạp cạp
+\nGặp hồ nước nó bì bà bì bõm
+\nLúc lên bờ vẫy cái cánh cho khô
+\nMột con vịt xòe ra hai cái cánh
+\nNó kêu rằng cáp cáp cáp, cạp cạp cạp
+\nGặp hồ nước nó bì bà bì bõm
+\nLúc lên bờ vẫy cái cánh cho khô
+\nMột con vịt xòe ra hai cái cánh
+\nNó kêu rằng cáp cáp cáp, cạp cạp cạp
+\n\nGặp hồ nước nó bì bà bì bõm
+\nLúc lên bờ vẫy cái cánh cho khô
+\n\nMột con vịt xòe ra hai cái cánh
+\nNó kêu rằng cáp cáp cáp, cạp cạp cạp
+\nGặp hồ nước nó bì bà bì bõm
+\nLúc lên bờ vẫy cái cánh cho khô</string>
+
+
+
+</resources>
